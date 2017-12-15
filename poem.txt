@@ -4,8 +4,7 @@ puple
 pink
 white
 green
-blue
-dark red orange 
+blue 
 violet
 yellow
 
